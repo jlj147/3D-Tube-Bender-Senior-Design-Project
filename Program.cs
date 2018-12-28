@@ -1,6 +1,6 @@
 ﻿// 3D Tube Bender Program class
 //
-// Authors: Caden Sanders
+// Authors: Jayce Jones, Caden Sanders, DaNae' Winston
 //
 // This is where the main control class for the program is.
 // Program includes many public variables and functions
